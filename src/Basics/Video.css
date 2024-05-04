@@ -1,0 +1,17 @@
+.container1{
+    background-color:lightblue;
+    float: left;
+    margin: 10px;
+    padding: 6px;
+}
+.title{
+    font: bold;
+    color: white;
+}
+.pic img{
+    height: 100px;
+    width: 150px;
+}
+.channer{
+    font: bold;
+}
